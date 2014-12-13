@@ -1,0 +1,11 @@
+{
+    "displayName" : "Evento",
+    "name" : "evento",
+    "templateName" : "evento",
+    "url" : "user.html",
+    "server": "localhost:8080",
+    
+	"context": "/PepqaApp.web/webresources/Evento",
+    
+    "el" : "#main"
+}
